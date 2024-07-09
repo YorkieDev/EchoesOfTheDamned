@@ -23,7 +23,7 @@ In "Echoes of the Damned," you play as the sole survivor of an ill-fated expedit
 1. Ensure you have Python 3.7 or higher installed on your system.
 2. Clone this repository to your local machine.
 3. Navigate to the game directory in your terminal or command prompt.
-4. Run the game using the command: `python game.py`
+4. Run the game using the command: `python textadventure.py`
 
 ### How to Play
 
