@@ -8,6 +8,10 @@ Welcome to "Echoes of the Damned," an immersive text-based adventure game set in
 
 In "Echoes of the Damned," you play as the sole survivor of an ill-fated expedition to Castle Shadowmere. As you explore the castle's cursed halls, you'll encounter ghostly characters, battle nightmarish creatures, and unravel a sinister plot that threatens not just your life, but your very soul.
 
+### Screenshots 📸
+![image](https://github.com/user-attachments/assets/4a5c8b6f-adf3-4be4-908e-e5d84ecd4591)
+
+
 ### Features
 
 - Rich, atmospheric descriptions that bring the dark world of Castle Shadowmere to life
